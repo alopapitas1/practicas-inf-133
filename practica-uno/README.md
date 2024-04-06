@@ -4,7 +4,7 @@ Completa tus datos personales en la siguiente tabla:
 -------------------------
 | Nombres  | Apellidos  | CI   |
 | -------- | ---------- | ---- |
-| `Alain Alexandro` | `huanca Carvajal` | `9107433` |
+| `Alain Alexandro` | `Huanca Carvajal` | `9107433` |
 
 ## Ejercicio 1
 Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros.
